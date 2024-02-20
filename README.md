@@ -1,2 +1,2 @@
 # newpeoject
-this is demo of new project
+this is demo of new project.
